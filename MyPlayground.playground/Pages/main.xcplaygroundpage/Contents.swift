@@ -85,7 +85,7 @@ func isForceWith(name: String) -> Bool {
  ```swift
  isInRange(0) // prints "small"
  isInRange(99) // prints "not sure"
- isInRange(5) // prints "big"
+ isInRange(5) // prints "medium"
  ```
 */
 
